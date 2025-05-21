@@ -124,7 +124,7 @@
   <div class="container">
     <h1>Unicode Text Converter – Stylish Text Generator</h1>
     <p>
-      Transform your text into cool styles instantly! This Unicode Text Converter helps you create fun, bold, underlined, or even cursed text using special Unicode characters — ready to copy and paste anywhere!
+      Transform your text into cool styles instantly! This <a href="https://unitextify.com" target="_blank"> Unicode Text Converter helps you create fun, bold, underlined, or even cursed text using special Unicode characters — ready to copy and paste anywhere!
     </p>
 
     <div class="converter-box">
